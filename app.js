@@ -105,16 +105,6 @@ function App() {
                 <h3>Producto 5</h3>
                 <p>Precio: 40€</p>
               </article>
-
-              <article className="producto" tabIndex="0" aria-label="Producto Gorra">
-                <img
-                  src="https://via.placeholder.com/150"
-                  alt="Gorra negra"
-                  className="producto-img"
-                />
-                <h3>Gorra Negra</h3>
-                <p>15€</p>
-              </article>
             </div>
           </section>
         </div>
